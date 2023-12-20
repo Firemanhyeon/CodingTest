@@ -1,7 +1,7 @@
 package BackJoon;
 
 
-public class B4673 {
+public class B4673   {
 
 	public static void main(String[] args) {
 		boolean[] arr = new boolean[10001];
