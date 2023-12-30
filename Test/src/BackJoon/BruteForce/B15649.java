@@ -1,4 +1,4 @@
-package BackJoon;
+package BackJoon.BruteForce;
 import java.util.*;
 public class B15649 {
     static boolean[] c = new boolean[10];//사용했는지안했는지 확인하는 배열

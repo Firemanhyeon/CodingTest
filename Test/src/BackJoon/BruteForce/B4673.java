@@ -1,4 +1,4 @@
-package BackJoon;
+package BackJoon.BruteForce;
 
 
 public class B4673   {
